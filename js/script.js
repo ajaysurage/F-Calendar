@@ -25,6 +25,20 @@
             start: "2023-11-27T02:00:00",
             end: "2023-11-27T05:00:00",
             resourceId: 'a'
+        },
+        {
+            id: 'b',
+            title: 'Mr. Chandan',
+            start: "2023-11-27T02:00:00",
+            end: "2023-11-27T05:00:00",
+            resourceId: 'b'
+        },
+        {
+            id: 'c',
+            title: 'Mr. Vaibhav Solanki',
+            start: "2023-11-27T04:00:00",
+            end: "2023-11-27T06:00:00",
+            resourceId: 'c'
         }
       ];
 
